@@ -1,0 +1,46 @@
+{
+    "title": "彭富强の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "彭富强,个人主页",
+    "author": "彭富强",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "彭富强",
+    "logo_text_2": "QQ:2639305701",
+    "github": "imsyy",
+    "qq": "1539250352",
+    "email": "2639305701@qq.com",
+    "bilibili": "346298923",
+    "telegram": "bottom_user",
+    "link_1": [
+        "https://2639305701.github.io/pfq666/        ",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.imsyy.top/",
+        "fa-solid fa-cloud",
+        "哒哒哒"
+    ],
+    "link_3": [
+        "https://music.163.com/#/my/m/music/playlist?id=2975389658",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.imsyy.top/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://2639305701.github.io/pfqnb/        ",
+        "fa-solid fa-book-bookmark",
+        "啦啦啦"
+    ],
+    "link_6": [
+        "https://2639305701.github.io/pfqi1/        ",
+        "fa-solid fa-flask",
+        "爱心"
+    ],
+    "Copyright_text": "彭富强",
+    "beian": "曹山路1866号"
+}
